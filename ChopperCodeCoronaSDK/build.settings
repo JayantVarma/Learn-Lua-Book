@@ -1,0 +1,18 @@
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		content = "landscapeRight",
+	},
+
+	iphone =
+	{
+		plist =
+		{
+			UIApplicationExitsOnSuspend = true,
+			UIStatusBarHidden = true
+
+		},
+	},
+}

@@ -1,0 +1,29 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="1" iosDevice="0" packageName="com.ozapps.chopperRescue" logicalHeight="960" logicalWidth="640" retinaDisplay="3" assetsOnly="0" orientation="1" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="./_005.wav"/>
+ <file source="./_004.wav"/>
+ <file source="./_003.wav"/>
+ <file source="./_002.wav"/>
+ <file source="./_001.wav"/>
+ <file source="./_cloud.png"/>
+ <file source="./_bullet.png"/>
+ <file source="./_tallhouse.png"/>
+ <file source="./_crash.png"/>
+ <file source="./Helvetica.ttf"/>
+ <file source="./background.png"/>
+ <file source="./_tanker.png"/>
+ <file source="./_post.png"/>
+ <file source="./_plane.png"/>
+ <file source="./_man.png"/>
+ <file source="./_house.png"/>
+ <file source="./_grass.png"/>
+ <file source="./_flower.png"/>
+ <file source="./_cloud3.png"/>
+ <file source="./_cloud2.png"/>
+ <file source="./_cloud1.png"/>
+ <file source="./_chopper.png"/>
+ <file source="./_balloon.png"/>
+ <file source="main.lua"/>
+</project>
